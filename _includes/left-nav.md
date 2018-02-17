@@ -1,2 +1,6 @@
 * [Music](/)
     * [Drums](/drums/)
+        * [Dynamics](/drums/dynamics)
+        * [Practice](/drums/practice)
+        * [Practice Elements](/drums/practice-elements)
+        * [Warm-up](/drums/warmup)
