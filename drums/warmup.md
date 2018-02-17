@@ -1,5 +1,7 @@
 # Warm-ups
 
+Before any practice or playing, do warmup/stretching. 
+
 In a warm-up, focus on the motion. Make it fluid and let it feel good. Do not hold position nor test your limits.
 
 1. Jojo Mayer hand-clapping (3 min.)
