@@ -14,16 +14,26 @@ body {
   background-color: $charleston-green;
 
   a {
-      color: $flame;
+    color: $flame;
   }
 
   header {
-        padding: 0.5em;
-        background-color: $tiffany-blue;
+    padding: 0.5em;
+    background-color: $tiffany-blue;
   }
 
   nav#leftnav {
-      border: 1px solid $mikado-yellow;
-      border-radius: 1em;
+    border: 1px solid $mikado-yellow;
+    border-radius: 1em;
+    //background-color: $turquoise-green;
+
+    ul {
+        padding-left: 1em;
+
+      li {
+        list-style: none;
+        margin: 0;
+      }
+    }
   }
 }
