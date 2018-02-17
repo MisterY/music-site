@@ -1,18 +1,17 @@
 # Dynamics
 
-An excellent overview of dynamics marks can be found in the book Band Expressions ([link](https://books.google.at/books?id=vRdhuchMvZoC&pg=PP5)).
-
+An excellent overview of dynamics marks can be found in the book Band Expressions ([link](https://books.google.at/books?id=vRdhuchMvZoC&pg=PP5)).  
 A good introductory video on dynamics ([link](https://www.youtube.com/watch?v=UOWApRns4MA)).
 
 ## Dynamic levels
 
-_fff = fortississimo_ = loudest
-_ff = fortissimo_ = louder
-_f = forte_ = loud, full stroke ~5 inches, center
-_mf = mezzo forte_ = medium loud, center
-_mp = mezzo piano_ = medium soft, off the center
-_p = piano_ = soft, strike at ~2 inches off the center
-_pp = pianissimo_ = softer
+_fff = fortississimo_ = loudest  
+_ff = fortissimo_ = louder  
+_f = forte_ = loud, full stroke ~5 inches, center  
+_mf = mezzo forte_ = medium loud, center  
+_mp = mezzo piano_ = medium soft, off the center  
+_p = piano_ = soft, strike at ~2 inches off the center  
+_pp = pianissimo_ = softer  
 _ppp = pianississimo_ = softest
 
 One of the main ways to control dynamics with a drumset is adjusting the stick height when striking a drum / cymbal.
