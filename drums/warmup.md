@@ -1,3 +1,6 @@
+---
+title: Drums
+---
 # Warm-ups
 
 Before any practice or playing, do warmup/stretching. 

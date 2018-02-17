@@ -1,3 +1,6 @@
+---
+title: Drums
+---
 # Dynamics
 
 An excellent overview of dynamics marks can be found in the book Band Expressions ([link](https://books.google.at/books?id=vRdhuchMvZoC&pg=PP5)).  

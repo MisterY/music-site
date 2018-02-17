@@ -1,3 +1,6 @@
+---
+title: Drums
+---
 # Practice Elements
 
 These are the areas that should be practiced/exercised.
