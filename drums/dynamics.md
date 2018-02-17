@@ -3,7 +3,7 @@
 An excellent overview of dynamics marks can be found in the book Band Expressions ([link](https://books.google.at/books?id=vRdhuchMvZoC&pg=PP5)).  
 A good introductory video on dynamics ([link](https://www.youtube.com/watch?v=UOWApRns4MA)).
 
-## Dynamic levels
+## Dynamic Levels
 
 _fff = fortississimo_ = loudest  
 _ff = fortissimo_ = louder  
@@ -16,6 +16,17 @@ _ppp = pianississimo_ = softest
 
 One of the main ways to control dynamics with a drumset is adjusting the stick height when striking a drum / cymbal.
 Another way to increase the volume would be to use the stick shoulder to hit the drum/cymbal.
+
+## Dynamic Character
+
+* animato - animated, lively
+* sostenuto - sustained, lengthened
+
+etc.
+
+Related links:
+
+- [terminology](https://en.wikipedia.org/wiki/Glossary_of_musical_terminology)
 
 ## Links
 
