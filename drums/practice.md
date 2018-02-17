@@ -20,7 +20,7 @@ Lesson plan
 * Theory/Book/Technique: (15 minutes)
 * Song/Play/Form: (15 minutes)
 
-Resources:
+## Resources:
 
 * Drum Lesson Plan [link](http://drumlearner.com/drum-lesson-plan-teachers.php)
 * Jojo Mayer guide [link](http://docslide.net/documents/mayer-secret-weapons-tip-guide.html)
