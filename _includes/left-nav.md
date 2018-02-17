@@ -1,4 +1,2 @@
-Navigation
-
 * [Music](/)
     * [Drums](/drums/)

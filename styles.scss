@@ -18,6 +18,12 @@ body {
   }
 
   header {
-    background-color: $tiffany-blue;
+        padding: 0.5em;
+        background-color: $tiffany-blue;
+  }
+
+  nav#leftnav {
+      border: 1px solid $mikado-yellow;
+      border-radius: 1em;
   }
 }
