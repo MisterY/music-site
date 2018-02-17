@@ -1,3 +1,23 @@
+---
+---
 /*
     Styles
 */
+$turquoise-green: #b8d5b8;
+$flame: #e55934;
+$mikado-yellow: #ecc30b;
+$charleston-green: #2e282a;
+$tiffany-blue: #17bebb;
+
+body {
+  color: $turquoise-green;
+  background-color: $charleston-green;
+
+  a {
+      color: $flame;
+  }
+
+  header {
+    background-color: $tiffany-blue;
+  }
+}
