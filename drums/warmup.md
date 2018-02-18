@@ -26,3 +26,7 @@ Stretch the muscles after playing if they are stiff.
 
 - Wrist Stretch 3 (aikido stretch),
 - Hand Stretch
+
+## Legs
+
+Put your legs in a natural position. Lift the toes as high as you can, keeping the heel on the flor. Do quick taps, keeping the feet up. Play 8th notes (while hands do 16th notes).
