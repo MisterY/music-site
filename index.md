@@ -8,3 +8,4 @@ This site is my collection of music resources and pointers to them across the we
 
 The main focus in on musical theory on one hand, and [drums](drums/index.md) on another.
 
+While the content is being migrated from the previous site, most of it is still [here](https://sites.google.com/site/alensmusicsite/).
