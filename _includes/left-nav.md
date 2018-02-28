@@ -1,4 +1,5 @@
 * [Music](/)
+    * [Band](/band/)
     * [Drums](/drums/)
         * [Dynamics](/drums/dynamics)
         * [Hardware](/drums/hardware)
