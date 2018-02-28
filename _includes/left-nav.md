@@ -4,4 +4,5 @@
         * [Hardware](/drums/hardware)
         * [Practice](/drums/practice)
         * [Practice Elements](/drums/practice-elements)
+        * [Time](/drums/time)
         * [Warm-up](/drums/warmup)

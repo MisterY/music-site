@@ -1,5 +1,5 @@
 ---
-title: Drums
+title: Warm-ups
 ---
 # Warm-ups
 
