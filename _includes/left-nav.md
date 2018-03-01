@@ -7,3 +7,4 @@
         * [Practice Elements](/drums/practice-elements)
         * [Time](/drums/time)
         * [Warm-up](/drums/warmup)
+    * [Scene](/scene/)
