@@ -1,5 +1,5 @@
 * [Music](/)
-    * [Band](/band/)
+    * [Band](/band/band)
     * [Drums](/drums/)
         * [Dynamics](/drums/dynamics)
         * [Hardware](/drums/hardware)
@@ -7,4 +7,4 @@
         * [Practice Elements](/drums/practice-elements)
         * [Time](/drums/time)
         * [Warm-up](/drums/warmup)
-    * [Scene](/scene/)
+    * [Scene](/scene)
