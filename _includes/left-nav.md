@@ -6,6 +6,7 @@
         - [Hardware](/drums/hardware)
         - [Practice](/drums/practice)
         - [Practice Elements](/drums/practice-elements)
+        - [Rudiments](/drums/rudiments)
         - [Time](/drums/time)
         - [Warm-up](/drums/warmup)
     - [Scene](/scene)
