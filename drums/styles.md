@@ -12,6 +12,10 @@ Main jazz-related styles:
 - Funk
 - Rock
 
+Other
+
+- Rumba
+
 ## Bossa Nova
 
 Here are the two main versions of Bossa Nova:
