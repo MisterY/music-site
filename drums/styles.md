@@ -15,6 +15,7 @@ Main jazz-related styles:
 Other
 
 - Rumba
+- Rhythm & Blues => Funk => Hip Hop
 
 ## Bossa Nova
 
