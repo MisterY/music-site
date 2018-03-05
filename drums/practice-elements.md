@@ -1,5 +1,5 @@
 ---
-title: Drums
+title: Practice Elements
 ---
 # Practice Elements
 
