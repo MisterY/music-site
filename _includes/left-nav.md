@@ -1,6 +1,7 @@
 - [Music](/)
     - [Band](/band/band)
     - [Drums](/drums/)
+        - [Brushes](/drums/brushes)
         - [Drummers](/drums/drummers)
         - [Dynamics](/drums/dynamics)
         - [Hardware](/drums/hardware)
