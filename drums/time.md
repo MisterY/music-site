@@ -26,6 +26,7 @@ Links:
 
 ## Links
 
+- [Problems and Solutions With Rushing and Dragging](https://www.drummercafe.com/education/articles/problems-with-rushing-and-dragging.html). Plenty of links on this page.
 - How To Develop ROCK SOLID TIMING! w/ Beatdown Brown ([link](https://www.youtube.com/watch?v=0DWSmJO1gLQ))
 - How to Play Tight to a Metronome ([link](https://www.youtube.com/watch?v=y5MewamYQMM))
 - Building your internal clock, Drumeo ([link](https://www.youtube.com/watch?v=zk3eVDK1PPE))
