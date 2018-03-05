@@ -21,7 +21,7 @@ Source: Brush Basics ([link](http://www.paulwertico.com/articles/brushbasics.php
 
 Source: Using Brushes With Modern Music Styles ([link](http://drumdrums.com/brushes.html))
 
-![Brush Lesson](https://i.imgur.com/g99RXVI.png)
+<img src="https://i.imgur.com/g99RXVI.png" width="250em"/>
 
 Source: Brushes, other options ([link](http://www.authenticdrummer.com/technique-lesson-brushes-other-options/))
 
