@@ -1,5 +1,6 @@
 - [Music](/)
     - [Band](/band/band)
+        - [Rhythm Section](/band/rhythm-section)
     - [Drums](/drums/)
         - [Brushes](/drums/brushes)
         - [Drummers](/drums/drummers)
