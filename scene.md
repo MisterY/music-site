@@ -5,6 +5,13 @@ Music scene
 
 For clubs in Vienna, see [here](http://austria.alensiljak.tk/entertainment/music).
 
+## Jam Sessions
+
+- [Harmer's Bar](https://www.facebook.com/groups/755242204543045/)
+- [1019](https://www.1019jazzclub.at/), [fb](https://www.facebook.com/1019jazzclub/)
+- [Zwe](http://www.zwe.cc/), [fb](https://www.facebook.com/jazzcafezwe/)
+- [Drakon](https://www.facebook.com/Drakon-386418171399681/)
+
 ## Band Search
 
 - Musiker in deiner Stadt ([link](https://www.musiker-in-deiner-stadt.at/))
