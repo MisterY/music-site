@@ -4,12 +4,6 @@ Title: Grip
 Holding a stick
 Stick, holding the stick, fulcrum (Gordy Knudsen video [link](https://www.youtube.com/watch?v=4KINRsm0yhQ)).
 
-Hand Techniques
-
-- Push-Pull, open/close (Gordy [link](http://gk-music.com/video-lessons.htm))
-- Moeller
-- Fine stick work ([link](http://www.drummerworld.com/Videos/kikofreitassnaredrum.html))
-
 ## Grip
 
 - German
@@ -18,10 +12,13 @@ Hand Techniques
 - American
 - Traditional
 
-### Hinger Grip
+### Hinger (Tony Williams) Grip
 
 Some call it the Tony Williams grip as he prominently used it in the recent past.
 Tony Williams on holding a stick ([video link](https://youtu.be/7x5bAyLvzoE?t=25m35s)).
+
+Hold the stick with the little finger only. This grip reduces strain and allows faster strokes with less effort.
+Used on the right hand only. The left uses the traditional grip.
 
 ### Traditional Grip
 
@@ -31,8 +28,8 @@ Various techniques are available with the traditional grip.
 
 Index finger: Traditional Finger Control, part 2 ([link](https://www.youtube.com/watch?v=mzuwohqmQHg)) of 4.
 
-### Tony Williams Grip
+## Hand Techniques
 
-Hold the stick with the little finger only. This grip reduces strain and allows faster strokes with less effort.
-
-Used on the right hand only. The left uses the traditional grip.
+- Push-Pull, open/close (Gordy [link](http://gk-music.com/video-lessons.htm))
+- Moeller
+- Fine stick work ([link](http://www.drummerworld.com/Videos/kikofreitassnaredrum.html))
