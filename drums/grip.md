@@ -30,3 +30,9 @@ Various techniques are available with the traditional grip.
 #### Thumb
 
 Index finger: Traditional Finger Control, part 2 ([link](https://www.youtube.com/watch?v=mzuwohqmQHg)) of 4.
+
+### Tony Williams Grip
+
+Hold the stick with the little finger only. This grip reduces strain and allows faster strokes with less effort.
+
+Used on the right hand only. The left uses the traditional grip.
