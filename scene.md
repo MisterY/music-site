@@ -12,6 +12,10 @@ For clubs in Vienna, see [here](http://austria.alensiljak.tk/entertainment/music
 - [Zwe](http://www.zwe.cc/), [fb](https://www.facebook.com/jazzcafezwe/)
 - [Drakon](https://www.facebook.com/Drakon-386418171399681/)
 
+### Live Music
+
+- [Neruda](https://www.neruda.at/)
+
 ## Band Search
 
 - Musiker in deiner Stadt ([link](https://www.musiker-in-deiner-stadt.at/))
