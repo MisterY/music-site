@@ -11,6 +11,7 @@ For clubs in Vienna, see [here](http://austria.alensiljak.tk/entertainment/music
 - [1019](https://www.1019jazzclub.at/), [fb](https://www.facebook.com/1019jazzclub/)
 - [Zwe](http://www.zwe.cc/), [fb](https://www.facebook.com/jazzcafezwe/)
 - [Drakon](https://www.facebook.com/Drakon-386418171399681/)
+- [Cafe Concerto](http://www.cafeconcerto.at/), Tuesdays
 
 ### Live Music
 
