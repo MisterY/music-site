@@ -10,6 +10,7 @@
         - [Practice](/drums/practice)
         - [Practice Elements](/drums/practice-elements)
         - [Rudiments](/drums/rudiments)
+        - [Solo](/drums/solo)
         - [Stroke](/drums/stroke)
         - [Styles](/drums/styles)
         - [Time](/drums/time)
