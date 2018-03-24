@@ -32,3 +32,7 @@ Resources:
 - Brush Lessons, Ed Soph ([link](https://www.youtube.com/watch?v=poX07Mxjxeg)), video
 - Playing with Brushes ([link](http://www.gasperbertoncelj.com/brushes.html))
 - [Inside the Big Band](https://youtu.be/6CH-IE99ZvU?t=1h1m36s) shows several brush strokes.
+- Steve Smith [link](http://www.drummerworld.com/Videos/stevesmithfinebrushaustralia.html)
+- Introduction to Jazz Brushes [link](https://www.youtube.com/watch?v=5vGNypeZe1g)
+- Joe Morello: The Art of Brushes [link](https://www.youtube.com/watch?v=oNhnbx8lRY8)
+- Eddie Locke: The Art of Brushes [link](https://www.youtube.com/watch?v=NoqJfTzP62I)

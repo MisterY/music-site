@@ -9,3 +9,23 @@ Title: Technique
 ## Playing Techniques
 
 - [Gordy Knudson, Hands Technique](https://www.youtube.com/playlist?list=PLf8Hk-i8-hkynJ3bGG4seOxvgdlZr0w5c)
+
+## Hands
+
+### Rudiments
+
+See [Rudiments](rudiments) page.
+
+### Snare
+
+[Brushes](brushes) are on a separate page.
+
+- Rebound, [link](http://www.drummerworld.com/Videos/stevesmithreboundaustralia.html)
+- Whipped-Cream Roll, [link](https://youtu.be/WkjzySUL_WM?t=10m15s)
+
+## Feet
+
+- Heel-down
+- Heel-up
+- Constant Release, or Heel-Toe, rocking motion, pumping, Moeller... Jojo Mayer foot technique (Jojo Mayer link, link).
+- Slide (left-right)
