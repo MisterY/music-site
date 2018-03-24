@@ -11,10 +11,10 @@ More specific software can be found in the MIDI, VST, and DAW sections. Some of 
 
 Contents
 
-    - [Audio File Converters](#audio-file-converters)
-    - [Band](#band)
-    - [Scores](#scores)
-    - [VST](#vst)
+- [Audio File Converters](#audio-file-converters)
+- [Band](#band)
+- [Scores](#scores)
+- [VST](#vst)
 
 ## Audio File Converters
 
