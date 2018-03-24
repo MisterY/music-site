@@ -1,6 +1,3 @@
----
-title: Practice Elements
----
 # Practice Elements
 
 These are the areas that should be practiced/exercised.

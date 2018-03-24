@@ -1,6 +1,4 @@
----
-Title: Rudiments
----
+# Rudiments
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Drum_rudiment)
 

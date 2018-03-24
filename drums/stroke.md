@@ -1,6 +1,4 @@
----
-Title: Stroke
----
+# Stroke
 
 - Full stroke
 - Up stroke

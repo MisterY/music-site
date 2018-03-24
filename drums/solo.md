@@ -1,6 +1,4 @@
----
-Title: Solo
----
+# Solo
 
 Playing a solo on drums. Playing a solo means you are playing alone.
 

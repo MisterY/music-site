@@ -1,6 +1,5 @@
----
-title: Time
----
+# Time
+
 This page is about the concept of time, as applied on the drums.
 
 Time, or time keeping, is the first and foremost function of a drummer.

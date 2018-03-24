@@ -1,6 +1,4 @@
----
-Title: Rhythm Styles
----
+# Rhythm Styles
 
 Main jazz-related styles:
 

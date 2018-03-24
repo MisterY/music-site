@@ -1,6 +1,3 @@
----
-Title: Drums
----
 # Drums
 
 Various drums-related resources.

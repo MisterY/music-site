@@ -1,6 +1,5 @@
----
-Title: Brushes
----
+# Brushes
+
 Brushes can be held just like sticks, in a traditional or matched grip.
 
 Some brush patterns

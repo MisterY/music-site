@@ -1,6 +1,5 @@
----
-Title: Grip
----
+# Grip
+
 Holding a stick
 Stick, holding the stick, fulcrum (Gordy Knudsen video [link](https://www.youtube.com/watch?v=4KINRsm0yhQ)).
 
