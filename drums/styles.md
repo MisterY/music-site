@@ -42,6 +42,7 @@ Here is a Calypso version from Tommy Igoe, at Vic Firth ([link](http://vicfirth.
 - Cascara
 - Songo
 - Mozambique
+    - [Mozambique Afro-Cuban Drum Groove - Online Drum Lesson with John X](https://www.youtube.com/watch?v=9Q9iDBqq_XU)
 - Cuban Bomba
 - Pilon
 - Cha Cha
