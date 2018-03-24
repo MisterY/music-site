@@ -52,6 +52,10 @@ Links:
 - Play different subdivisions
 - Record yourself playing
 
+## Odd Meters
+
+These are measures with odd number of notes, i.e. 5/4, 7/8, 9/8, 11/8, 13/8.
+
 ## Links
 
 - [Problems and Solutions With Rushing and Dragging](https://www.drummercafe.com/education/articles/problems-with-rushing-and-dragging.html). Plenty of links on this page.
