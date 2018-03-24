@@ -7,11 +7,13 @@ Types of grip:
 
 - German
 - French
-- Hinger
+- [Hinger Grip](#hinger-grip)
 - American
-- Traditional
+- [Traditional Grip](#traditional-grip)
 
-### Hinger (Tony Williams) Grip
+For more info on hand technique, see the [Technique](technique) page.
+
+## Hinger Grip
 
 Some call it the Tony Williams grip as he prominently used it in the recent past.
 Tony Williams on holding a stick ([video link](https://youtu.be/7x5bAyLvzoE?t=24m25s)).
@@ -19,14 +21,10 @@ Tony Williams on holding a stick ([video link](https://youtu.be/7x5bAyLvzoE?t=24
 Hold the stick with the little finger only. This grip reduces strain and allows faster strokes with less effort.
 Used on the right hand only. The left uses the traditional grip.
 
-### Traditional Grip
+## Traditional Grip
 
 Various techniques are available with the traditional grip.
 
-#### Thumb
+### Thumb
 
 Index finger: Traditional Finger Control, part 2 ([link](https://www.youtube.com/watch?v=mzuwohqmQHg)) of 4.
-
-## Hand Techniques
-
-See [Technique](technique) page.
