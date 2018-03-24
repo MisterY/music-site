@@ -1,6 +1,5 @@
----
-Title: Rhythm Section
----
+# Rhythm Section
+
 Rhythm section in a big band generally consists of:
 
 - Drums

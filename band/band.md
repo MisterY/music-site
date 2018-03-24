@@ -1,6 +1,5 @@
----
-Title: Playing in a Band
----
+# Playing in a Band
+
 Some characteristics of playing in a band.
 
 Rhythm section mostly refers to drums and bass.

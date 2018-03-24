@@ -1,6 +1,4 @@
----
-Title: Software
----
+# Software
 
 More specific software can be found in the MIDI, VST, and DAW sections. Some of the essentials are below.
 
