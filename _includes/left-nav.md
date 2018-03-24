@@ -13,6 +13,7 @@
         - [Solo](/drums/solo)
         - [Stroke](/drums/stroke)
         - [Styles](/drums/styles)
+        - [Technique](/drums/technique)
         - [Time](/drums/time)
         - [Warm-up](/drums/warmup)
     - [Scene](/scene)

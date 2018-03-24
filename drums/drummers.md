@@ -10,8 +10,7 @@ Here are some links to well-known drummers, their gear, videos, and/or other res
     Ludwig, Slingerland ([setup](http://keepitlive.tripod.com/buddyrich/setup/setup.html)), Rogers; Zildjian ([link](https://zildjian.com/artists/buddy-rich-legend))
 - Charly Antolini (born 1937), ([site](http://www.charly-antolini.com/), [Caravan solo](https://www.youtube.com/watch?v=mL-LyKcFE5c))
 - Dave Weckl
-- Elvin Jones,
-- Slingerland
+- Elvin Jones
 - Gordy Knudtson ([link](http://gk-music.com/))
 - Jimmy Cobb
 - Jo Jones, known as Papa Jo Jones (1911-1985), hi-hats
