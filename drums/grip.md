@@ -30,6 +30,4 @@ Index finger: Traditional Finger Control, part 2 ([link](https://www.youtube.com
 
 ## Hand Techniques
 
-- Push-Pull, open/close (Gordy [link](http://gk-music.com/video-lessons.htm))
-- Moeller
-- Fine stick work ([link](http://www.drummerworld.com/Videos/kikofreitassnaredrum.html))
+See [Technique](technique) page.

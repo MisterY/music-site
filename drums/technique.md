@@ -9,6 +9,9 @@ Title: Technique
 ## Playing Techniques
 
 - [Gordy Knudson, Hands Technique](https://www.youtube.com/playlist?list=PLf8Hk-i8-hkynJ3bGG4seOxvgdlZr0w5c)
+    - Push-Pull, open/close (Gordy [link](http://gk-music.com/video-lessons.htm))
+- Moeller
+- Fine stick work ([link](http://www.drummerworld.com/Videos/kikofreitassnaredrum.html))
 
 ## Hands
 
