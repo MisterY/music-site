@@ -16,7 +16,7 @@ Image credits: [link](http://percussion.org/blog/basic-snare-drum-technique/)
 
 Moeller technique is an effortless multiple stroke. It is using the whole arm in the movement and includes the four main types of stroke - full, down, tap, up.
 
-![Moeller](/assets/img/moeller.jpg)
+![Moeller](https://i.imgur.com/DsFpdRz.jpg)
 
 It is the best described in Jim Chapin's Speed, Power, Control, Endurance video.
 
