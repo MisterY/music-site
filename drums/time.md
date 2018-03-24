@@ -43,6 +43,10 @@ Ref: [Jon Berger](https://www.youtube.com/watch?v=NOK7lu2buCM)
 Links:
 - [What is Microtime?](https://www.youtube.com/watch?v=71Qa2huylD8) from 80/20 Drummer
 
+## Exercises
+
+- Metronome Reduction method ([link](https://www.youtube.com/watch?v=uP6DF4X9zF0))
+
 ## Tips
 
 - Play really slow tempos
