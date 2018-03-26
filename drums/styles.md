@@ -15,6 +15,10 @@ Other
 - Rumba
 - Rhythm & Blues => Funk => Hip Hop
 
+## Swing
+
+Uptempo swing - at higher speeds, the ride patterns becomes flat and loses the swing.
+
 ## Bossa Nova
 
 Here are the two main versions of Bossa Nova:
