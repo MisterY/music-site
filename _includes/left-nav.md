@@ -5,6 +5,7 @@
     * [Brushes](/drums/brushes)
     * [Drummers](/drums/drummers)
     * [Dynamics](/drums/dynamics)
+    * [Exercises](/drums/exercises)
     * [Grip](/drums/grip)
     * [Hardware](/drums/hardware)
     * [Practice](/drums/practice)
