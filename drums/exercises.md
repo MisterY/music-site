@@ -1,13 +1,11 @@
 # Exercises
 
 - Functional practicing ([link](https://www.youtube.com/watch?v=Reh9vXuAYs4)), contains 13 practice patterns in PDF.
+- [Workout](https://www.youtube.com/watch?v=71sv3NsGxlI)
 
 ## Exercises without sticks
 
-- [Workout](https://www.youtube.com/watch?v=71sv3NsGxlI)
 - Fist clenching (forearm and hand muscle buildup) and stretching.
-- Individual finger contraction, for muscles and control.
-- Fingers: upside-down stick ([link](http://freepercussionlessons.com/how-to-develop-finger-technique-for-snare-drum/)). Wrist in the "up" position, then work the fingers only.
 - Jojo's hand claping, [link](https://www.youtube.com/watch?v=ZnICKtoG2Wg).
 - Charles Wilcoxon: place fingertips on the table and lift palms. Tap left index finger and right middle finger in rapid succession.
 
@@ -19,8 +17,15 @@
 ## Fingers
 
 - clap all fingers against the palm (Mike Johnston)
+- pinch thumb and first finger, then work the other fingers. (wrist/finger exercises #3)
+- Individual finger contraction, for muscles and control.
+- upside-down stick ([link](http://freepercussionlessons.com/how-to-develop-finger-technique-for-snare-drum/)). Wrist in the "up" position, then work the fingers only.
+- Reverse stick (wrist/finger exercises #4). Hold the top of the stick in the hand, tap the bottom of the stick against the bottom of the forearm.
 
-### Match grip, lead/right hand: fingers
+Resources:
+
+- [wrist/finger exercises](https://www.youtube.com/watch?v=21RI6hWaEEc)
+
 
 ### Traditional grip, left hand:
 
