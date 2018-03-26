@@ -21,8 +21,7 @@ Swing, shuffle.
 
 Uptempo swing - at higher speeds, the ride patterns becomes flat and loses the swing.
 
-- [Jazz Rhythm Section 101: Jazz Swing and Shuffle Styles](https://www.youtube.com/watch?v=MR1Yrkjk_cM)
-- [Jazz Rhythm Section 101: Uptempo Swing](https://www.youtube.com/watch?v=Nhy1veC_TqI)
+- [Jazz Rhythm Section 101, playlist](https://www.youtube.com/watch?v=7B7X8Ag-kgM&list=PLpKMeH_MXcaRGnRc1hKhzRH7-BF2V_pOw)
 
 ## Bossa Nova
 
