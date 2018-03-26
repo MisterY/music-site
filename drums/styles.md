@@ -19,6 +19,8 @@ Other
 
 Uptempo swing - at higher speeds, the ride patterns becomes flat and loses the swing.
 
+- [Jazz Rhythm Section 101: Uptempo Swing](https://www.youtube.com/watch?v=Nhy1veC_TqI)
+
 ## Bossa Nova
 
 Here are the two main versions of Bossa Nova:
