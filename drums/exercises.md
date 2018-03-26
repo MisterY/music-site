@@ -44,6 +44,9 @@ Lessons from Drumeo ([link](https://www.youtube.com/watch?v=clap3PLe82c)).
 
 ## Feet
 
+Feet exercises can also be done without a pedal.
+
+- Clap feet on the floor
 - Foot Speed ([link](http://www.tigerbill.com/drumlessons/footspeed.htm))
 - Jojo Mayer exercises: down beat, tap/up, up beat, down/tap. ([link](https://www.youtube.com/watch?v=94qWIAuhH64))
 - Rocking motion / heal/toe ([link](https://www.youtube.com/watch?v=vtAEOGQ5smA))
