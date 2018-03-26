@@ -18,6 +18,8 @@
 
 ## Fingers
 
+- clap all fingers against the palm (Mike Johnston)
+
 ### Match grip, lead/right hand: fingers
 
 ### Traditional grip, left hand:
