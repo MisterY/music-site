@@ -11,7 +11,7 @@ For clubs in Vienna, see [here](http://austria.alensiljak.tk/entertainment/music
 - [Zwe](http://www.zwe.cc/), [fb](https://www.facebook.com/jazzcafezwe/)
 - [Drakon](https://www.facebook.com/Drakon-386418171399681/)
 - [Cafe Concerto](http://www.cafeconcerto.at/), Tuesdays
-- [17Ten](http://www.17ten.at/termine.html)
+- [17Ten](http://www.17ten.at/termine.html), twice a month, Thursday
 
 ### Live Music
 
