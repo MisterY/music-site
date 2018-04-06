@@ -1,6 +1,6 @@
 <div>
-  Music
-  <a href="#music" data-toggle="collapse" aria-expanded="false">toggle</a>
+  <a>Music</a>
+  <a href="#music" data-toggle="collapse" aria-expanded="true">toggle</a>
 </div>
 <ul id="music">
   <li>Band</li>
@@ -8,6 +8,7 @@
   <li>Scene</li>
   <li>Software</li>
 </ul>
+<!-- use collapsed class to collapse a list -->
 
 * [Music](/)
   * [Band](/band/band)
