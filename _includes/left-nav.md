@@ -1,6 +1,8 @@
 <div>
-  <a>Music</a>
-  <a href="#music" data-toggle="collapse" aria-expanded="true">toggle</a>
+  <a href="#music" data-toggle="collapse" aria-expanded="true">
+    Music
+    <i class="fa" aria-hidden="true"></i>
+  </a>
 </div>
 <ul id="music">
   <li>Band</li>
