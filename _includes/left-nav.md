@@ -4,7 +4,7 @@
     <i class="fa" aria-hidden="true"></i>
   </a>
 </div>
-<ul id="music">
+<ul id="music" class="collapse show">
   <li>Band</li>
   <li>Drums</li>
   <li>Scene</li>
