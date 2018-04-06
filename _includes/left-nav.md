@@ -1,3 +1,14 @@
+<div>
+  Music
+  <a href="#music" data-toggle="collapse" aria-expanded="false">toggle</a>
+</div>
+<ul id="music">
+  <li>Band</li>
+  <li>Drums</li>
+  <li>Scene</li>
+  <li>Software</li>
+</ul>
+
 * [Music](/)
   * [Band](/band/band)
     * [Rhythm Section](/band/rhythm-section)
