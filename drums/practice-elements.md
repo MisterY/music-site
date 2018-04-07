@@ -13,8 +13,8 @@ These are the areas that should be practiced/exercised.
     - Writing,
     - transcribing
 - Orchestration, expression
-- Dynamics
-- Band playing, playing with others
+- [Dynamics](dynamics)
+- [Band playing](/band/band), playing with others
 - Improvisation
     - creating melody
     - composition
