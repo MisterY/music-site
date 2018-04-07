@@ -44,6 +44,8 @@ Links:
 
 ## Exercises
 
+- Practice with and without a click.
+- Sing the melody or time ("ta") while playing.
 - Metronome Reduction method ([link](https://www.youtube.com/watch?v=uP6DF4X9zF0))
 
 ## Tips
@@ -56,7 +58,7 @@ Links:
 
 These are measures with odd number of notes, i.e. 5/4, 7/8, 9/8, 11/8, 13/8.
 
-## Links
+## References
 
 - [Problems and Solutions With Rushing and Dragging](https://www.drummercafe.com/education/articles/problems-with-rushing-and-dragging.html). Plenty of links on this page.
 - How To Develop ROCK SOLID TIMING! w/ Beatdown Brown ([link](https://www.youtube.com/watch?v=0DWSmJO1gLQ))

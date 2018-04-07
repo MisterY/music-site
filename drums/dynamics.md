@@ -27,9 +27,34 @@ There are also two markings for accents, which mean that the note is played loud
 * > = accent
 * sfz = louder than the standard accent (>)
 
-One of the ways to control dynamics with a drumset is adjusting the stick height when striking a drum / cymbal.  
+### How to play
+
+Here are some tips on how to additionally affect the dynamics.
+
+One of the main ways to control dynamics with a drumset is adjusting the stick height when striking a drum / cymbal.
+
 Another is the location at which the stick hits the drum head. The dynamic level decreases as the sticks move towards the upper end of the drum.  
-One way to increase the volume would be to use the stick shoulder to hit the drum/cymbal.
+
+#### Decrease
+
+Use lighter sticks.  
+Use brushes.  
+Use rim click.  
+Play cymbals with the tip of the stick, not the shoulder.  
+For light crashes and effects, hit the cymbal with the edge of the stick while holding a stick at a 90-degree angle to the cymbal edge.  
+Keep the foot down when playing hi-hat and bass drum.  
+Do not open the hats more than 1/4 of an inch.
+
+#### Increase
+
+Use heavier sticks.  
+Use sticks with nylon head.  
+Use the stick shoulder to hit the drum/cymbal.  
+Use the stick shaft (the flat part) on hi-hat for extreme sound volumes.  
+Use your full arm.  
+Use rim-shots on drums.  
+Turn the sticks around and play with the butt end.  
+Play the pedals with the feet up.
 
 ## Dynamic Character
 
