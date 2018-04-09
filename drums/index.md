@@ -2,15 +2,22 @@
 
 Various drums-related resources.
 
-## Practice
-
-- [Practice](practice.md)
-- [Warm-ups](warmup.md)
-- [Practice Elements](practice-elements.md)
-
-## Hardware
-
-- [Hardware](hardware.md)
+* [Blast Beats](blast-beats)
+* [Brushes](/drums/brushes)
+* [Drummers](/drums/drummers)
+* [Dynamics](/drums/dynamics)
+* [Exercises](/drums/exercises)
+* [Grip](/drums/grip)
+* [Hardware](/drums/hardware)
+* [Practice](/drums/practice)
+* [Practice Elements](/drums/practice-elements)
+* [Rudiments](/drums/rudiments)
+* [Solo](/drums/solo)
+* [Stroke](/drums/stroke)
+* [Styles](/drums/styles)
+* [Technique](/drums/technique)
+* [Time](/drums/time)
+* [Warm-up](/drums/warmup)
 
 ## References
 
