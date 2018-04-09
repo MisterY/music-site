@@ -2,11 +2,11 @@
 
 Various drums-related resources.
 
-* [Blast Beats](blast-beats)
 * [Brushes](/drums/brushes)
 * [Drummers](/drums/drummers)
 * [Dynamics](/drums/dynamics)
 * [Exercises](/drums/exercises)
+* [Extreme Drumming](extreme-drumming)
 * [Grip](/drums/grip)
 * [Hardware](/drums/hardware)
 * [Practice](/drums/practice)
