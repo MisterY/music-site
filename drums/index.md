@@ -11,3 +11,7 @@ Various drums-related resources.
 ## Hardware
 
 - [Hardware](hardware.md)
+
+## References
+
+- [History of the Drumset](https://www.youtube.com/watch?v=BH-jVncTJbg)
