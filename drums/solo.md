@@ -21,3 +21,4 @@ Phrases are usually 2-bar, 4-bar, or 8-bar long.
 - [Cadence Points](https://www.clementstheory.com/tips/cadence-points/)
 - [Phrases and Cadences](https://www.musictheory.net/lessons/55)
 - [What is a musical phrase?](http://vicfirth.com/steve-houghton-what-is-a-phrase/)
+- [Dali Mraz: How To Be A Composer And Not Just A Drummer](https://www.drumeo.com/blog/dali-mraz-drum-lessons/)
