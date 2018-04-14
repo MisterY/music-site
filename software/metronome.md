@@ -15,6 +15,10 @@ After being disappointed by a whole host of metronomes, I decided to write my ow
 
 - Best Metronomes
 
+## Linux
+
+- [Monoplugs](http://monoplugs.com/forum/viewtopic.php?t=958)
+
 ## Windows
 
 - MuseScore (simply creating a score and turning on a metronome with intro)
