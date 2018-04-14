@@ -1,5 +1,7 @@
 # Metronome
 
+The previous [list of metronomes](https://sites.google.com/site/alensmusicsite/home/software/metronome) is being slowly migrated here.
+
 Source: Big list of metronomes ([link](http://robertinventor.com/bmwiki/Big_list_of_Windows_and_Online_Metronomes)).
 
 ## Online 
