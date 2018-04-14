@@ -33,7 +33,7 @@ Individual apps
 
 ## Metronome
 
-See [here](https://sites.google.com/site/alensmusicsite/home/software/metronome).
+See [here](/software/metronome).
 
 ## Scores
 
