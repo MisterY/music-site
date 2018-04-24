@@ -2,6 +2,8 @@
 
 Some characteristics of playing in a band.
 
+- [Things to do](things-to-do)
+
 Rhythm section mostly refers to drums and bass.
 
 ## Relationship between instruments
