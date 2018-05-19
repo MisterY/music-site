@@ -63,12 +63,13 @@ Play the pedals with the feet up.
 
 etc.
 
-Related links:
+## Fluidity
 
-- [terminology](https://en.wikipedia.org/wiki/Glossary_of_musical_terminology)
+Fluidity is closely related to dynamics but involves fluid movement across the kit as well within a dynamic range. See link below.
 
 ## Links
 
+* [terminology](https://en.wikipedia.org/wiki/Glossary_of_musical_terminology)
 * Theory, Wikipedia ([link](https://en.wikipedia.org/wiki/Dynamics_%28music%29)).
 * General dynamics (song/part), interdynamics (each instrument/limb, [link](https://www.youtube.com/watch?v=6nakks5GDnk)), stick height, stick * selection, etc.
 * Ghost notes (Bernard Purdie [link](https://www.youtube.com/watch?v=aLHQG20Xsyg), Beginner Ghost Notes [link](http://www.drumlessons.com/drum-lessons/dynamic-drumming/beginner-ghost-notes/))
@@ -76,3 +77,4 @@ Related links:
 * Snare drum dynamics ([link](https://www.youtube.com/watch?v=Let79HWUvF8)).
 * Percussion Guide for the Beginning Band Student, Lesson Six: Dynamics / Height of Stick ([link](https://books.google.at/books?id=QuvdAgAAQBAJ&lpg=PA12&ots=ljFcDIk3Ld&dq=staccato%20legato%20snare%20drum&pg=PA18#))
 * [Developing Dynamite Dynamics: Part 1](https://tigerbill.com/drumlessons/drumsetdynamics_part1.htm)
+* [JP Bouvet - Lesson on Developing Fluidity](https://www.youtube.com/watch?v=clHY772q6IE)
