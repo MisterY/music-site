@@ -19,6 +19,8 @@ These are the areas that require development and should be practiced/exercised.
     - creating melody
     - composition
 - Musical styles
+- Groove
+- Fluidity (dynamics, shifting patterns, fills & grooves)
 
 ## Posture
 
@@ -27,3 +29,4 @@ Practice with a mirror. See Anatomy section in [Technique](technique) page.
 ## References
 
 * [Eight Essentials of the Artist Drummer](https://tigerbill.com/drumlessons/eightessentialsoftheartistdrummer.htm)
+* [Fluidity](https://www.youtube.com/watch?v=clHY772q6IE)
