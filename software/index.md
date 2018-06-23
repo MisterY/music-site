@@ -11,6 +11,7 @@ Contents
 
 - [Audio File Converters](#audio-file-converters)
 - [Band](#band)
+- [Metronome](metronome)
 - [Scores](#scores)
 - [VST](#vst)
 

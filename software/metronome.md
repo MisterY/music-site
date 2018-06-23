@@ -17,6 +17,7 @@ After being disappointed by a whole host of metronomes, I decided to write my ow
 
 ## Linux
 
+- [KMetronome](http://kmetronome.sourceforge.net/)
 - [Monoplugs](http://monoplugs.com/forum/viewtopic.php?t=958)
 
 ## Windows
@@ -26,3 +27,6 @@ After being disappointed by a whole host of metronomes, I decided to write my ow
 ## Android
 
 - Pro Metronome
+- Drummer's Metronome ([link](https://play.google.com/store/apps/details?id=de.stefanpledl.drummersmetronome))
+- Metronomerus ([link](https://play.google.com/store/apps/details?id=mh.knoedelbart.metronomerous))
+- Metronomics ([link](http://metronomicsapp.com/))
