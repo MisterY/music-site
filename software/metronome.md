@@ -10,6 +10,10 @@ After being disappointed by a whole host of metronomes, I decided to write my ow
 
 - [Alen's Metronome](http://metronome.alensiljak.ml/)
 - [Online Stopwatch](https://www.online-stopwatch.com/metronome/)
+- Best Metronomes ([link](http://www.bestmetronome.com/))
+    - Accessible, has tap-to-bpm ([link](http://a.bestmetronome.com/))
+    - Best Drum Trainer ([link](http://bestdrumtrainer.com/tt/))
+    - Speed Trainer ([link](http://bestdrumtrainer.com/st/))
 
 ### BPM Tools
 
