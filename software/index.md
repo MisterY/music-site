@@ -12,7 +12,7 @@ Contents
 - [Audio File Converters](#audio-file-converters)
 - [Band](#band)
 - [Metronome](metronome)
-- [Scores](#scores)
+- [Scores](scores)
 - [VST](#vst)
 
 ## Audio File Converters
@@ -35,14 +35,6 @@ Individual apps
 ## Metronome
 
 See [here](/software/metronome).
-
-## Scores
-
-* Muse Score ([link](http://musescore.com/))
-* Aered ([link](http://aerodrums.com/aered/)), sheet editor for drummers
-* Musink ([link](http://musink.net/))
-* Denemo ([link](http://www.denemo.org/))
-* Lilypond ([link](http://lilypond.org/))
 
 ## VST
 
