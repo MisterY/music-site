@@ -7,8 +7,8 @@
 * Musink ([link](http://musink.net/))
 * Denemo ([link](http://www.denemo.org/))
 * Lilypond ([link](http://lilypond.org/))
-* [ScoreCloud](http://scorecloud.com/)
 
 ## Offline
 
 - [MuseScore](www.musescore.org)
+- [ScoreCloud](http://scorecloud.com/)
