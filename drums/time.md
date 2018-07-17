@@ -50,9 +50,10 @@ Links:
 
 ## Tips
 
-- Play really slow tempos
-- Play different subdivisions
-- Record yourself playing
+- Play really slow tempos;
+- Play different subdivisions;
+- Record yourself playing;
+- "Bury the click track" - hit the notes in perfect timing so that you do not hear the click;
 
 ## Odd Meters
 
