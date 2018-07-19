@@ -16,11 +16,12 @@ Subdivision is the division of the main notes of the beat.
 
 ## The New Breed / Singing
 
-The method advised by Gary Chester.
-The key to his teaching is singing. The key to keeping time is to always be aware of the tempo and feel. Practice singing of the melody. Most importantly do not count in the traditional way. This is the key. Gary found out that singing uses the creative side of the brain. His approach is about time awareness. 
+The method advised by Gary Chester. Intro from a Facebook drums group:
+
+"The key to his teaching is singing. The key to keeping time is to always be aware of the tempo and feel. Practice singing of the melody. Most importantly do not count in the traditional way. This is the key. Gary found out that singing uses the creative side of the brain. His approach is about time awareness. 
 Instead of counting 1/4 notes "1,2,3,4" sing the sylllable "Ta"
 Strong
-Practice a simple groove put in the click pulsing 1/4s and sing along “ Ta Ta Ta Ta”
+Practice a simple groove put in the click pulsing 1/4s and sing along “Ta Ta Ta Ta”
 Add some more syncopated BD patterns
 Keep singing
 When this becomes natural, add fills and sing "Ta".
@@ -35,7 +36,7 @@ Working on this will enable you to completely lock in with any musical situation
 If you sing it, you can play it.
 For places where you know your time is skating, start singing the 1/4 note.
 
-Grab a copy of Garys book The New breed book 1.
+Grab a copy of Garys book The New breed book 1."
 
 Ref: [Jon Berger](https://www.youtube.com/watch?v=NOK7lu2buCM)
 
