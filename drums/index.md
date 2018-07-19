@@ -2,6 +2,7 @@
 
 Various drums-related resources.
 
+* [Beat](/drums/beat)
 * [Brushes](/drums/brushes)
 * [Drummers](/drums/drummers)
 * [Dynamics](/drums/dynamics)
