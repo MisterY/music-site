@@ -13,7 +13,13 @@ There is no right or wrong in general, only what works better for a particular p
 
 Playing behind the beat is also called "in the pocket".
 
-## Videos
+## Resources
+
+### Courses
+
+- [Ahead of, on, or behind the beat](https://www.lynda.com/Audio-Music-tutorials/Ahead-behind-beat/544274/595250-4.html), from Music Theory for Songwriters course at Linda
+
+### Videos
 
 - [Bill Bachman's Drumworkout.com -Ahead & Behind Beat Blog](https://www.youtube.com/watch?v=IPuRMdKfjEU)
 - [Playing on the beat, behind the beat and in front of the beat](https://www.youtube.com/watch?v=GlcSuJlOwJ0)
