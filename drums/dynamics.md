@@ -69,7 +69,7 @@ Fluidity is closely related to dynamics but involves fluid movement across the k
 
 ## Links
 
-* [Dynamics](https://www.lynda.com/Audio-Music-tutorials/Dynamics/544274/595247-4.html), from Music Theory for Songwriters course at Linda
+* [Dynamics](https://www.lynda.com/Audio-Music-tutorials/Dynamics/544274/595247-4.html), from Music Theory for Songwriters: Rhythm course at Linda
 * [terminology](https://en.wikipedia.org/wiki/Glossary_of_musical_terminology)
 * Theory, Wikipedia ([link](https://en.wikipedia.org/wiki/Dynamics_%28music%29)).
 * General dynamics (song/part), interdynamics (each instrument/limb, [link](https://www.youtube.com/watch?v=6nakks5GDnk)), stick height, stick * selection, etc.

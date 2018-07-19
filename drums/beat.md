@@ -17,7 +17,7 @@ Playing behind the beat is also called "in the pocket".
 
 ### Courses
 
-- [Ahead of, on, or behind the beat](https://www.lynda.com/Audio-Music-tutorials/Ahead-behind-beat/544274/595250-4.html), from Music Theory for Songwriters course at Linda
+- [Ahead of, on, or behind the beat](https://www.lynda.com/Audio-Music-tutorials/Ahead-behind-beat/544274/595250-4.html), from Music Theory for Songwriters: Rhythm course at Linda
 
 ### Videos
 
