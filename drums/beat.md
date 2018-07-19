@@ -13,7 +13,7 @@ There is no right or wrong in general, only what works better for a particular p
 
 ## Videos
 
+- [Bill Bachman's Drumworkout.com -Ahead & Behind Beat Blog](https://www.youtube.com/watch?v=IPuRMdKfjEU)
 - [Playing on the beat, behind the beat and in front of the beat](https://www.youtube.com/watch?v=GlcSuJlOwJ0)
 - [Eric Harland](https://www.youtube.com/watch?v=1PRsRagfrm0)
 - [How to play drums with a click track](https://www.youtube.com/watch?v=w0DtCmh0JI0), contains a graphical explanation
-- [Bass & Drums Workshop](https://www.youtube.com/watch?v=UB_G32rKNS0)
