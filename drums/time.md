@@ -6,6 +6,8 @@ Time, or time keeping, is the first and foremost function of a drummer.
 
 Honor the time between the notes. What you play is equally important to what you do not play.
 
+The term "time" most often refers to tempo.
+
 ## Subdivision
 
 The key to successful time keeping is the ability to play the subdivisions correctly.
