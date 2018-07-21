@@ -20,6 +20,7 @@ Here are some places that host jam sessions.
 - [Zwe](http://www.zwe.cc/), [fb](https://www.facebook.com/jazzcafezwe/), Tuesday, Wednesday
 - [Drakon](https://www.facebook.com/Drakon-386418171399681/), Sundays
 - [Cafe Concerto](http://www.cafeconcerto.at/), Tuesdays
+- [Jazz in Schwechat](http://www.jazzinschwechat.at/)
 
 ### Blues
 
