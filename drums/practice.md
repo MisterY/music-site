@@ -7,6 +7,7 @@ Two times per week are classes with an instructor. All other days, students do t
 Tips:
 * enjoy practice
 * practice daily
+* have a practice plan
 
 Before any practice perform [warm-ups](warmup.md).
 
@@ -14,7 +15,7 @@ Areas to practice are listed on [Practice Elements](practice-elements.md) page.
 
 ## Structure
 
-Lesson plan
+Example lesson plan:
 
 * Warm-ups: rudiments. (5 minutes)
 * Theory/Book/Technique: (15 minutes)
