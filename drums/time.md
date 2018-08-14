@@ -42,8 +42,12 @@ Ref: [Jon Berger](https://www.youtube.com/watch?v=NOK7lu2buCM)
 
 ## Micro-Time
 
-Links:
+Micro-time refers to correct placement and spacing between all the notes played. More practically, it means that your timing should not only be correct on quarter or half notes but for each note, be it 16th, 8th, 32th, triplet, etc.
+
+Resources:
+
 - [What is Microtime?](https://www.youtube.com/watch?v=71Qa2huylD8) from 80/20 Drummer
+- [The SECRET To TIGHTER Drumming - Micro Timing Drum Lesson](https://www.youtube.com/watch?v=tbjZxd4Uzyo)
 
 ## Exercises
 
