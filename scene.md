@@ -21,6 +21,7 @@ Here are some places that host jam sessions.
 - [Drakon](https://www.facebook.com/Drakon-386418171399681/), Sundays
 - [Cafe Concerto](http://www.cafeconcerto.at/), Tuesdays
 - [Jazz in Schwechat](http://www.jazzinschwechat.at/)
+- [Jazz in Schönbach](https://www.xing.com/communities/posts/schoenbach-jam-session-in-wien-1000959277)
 
 ### Blues
 
@@ -30,6 +31,11 @@ Here are some places that host jam sessions.
 
 - [IG Jazz](http://www.ig-jazz.at/)
 - [Neruda](https://www.neruda.at/)
+
+## Workshops
+
+- [Jazz and Wine](http://www.jazzandwine.at/), Poysdorf
+- [Jazzseminar Schönbach](http://www.fredwork.at/jazzseminar/)
 
 ## Band Search
 
