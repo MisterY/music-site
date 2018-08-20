@@ -14,7 +14,7 @@
 - Open/close technique, double-stroke roll, Dave Weckl ([link](https://www.youtube.com/watch?v=rJD-L-tyvyE))
 - Exercises for Tendonitis and Carpal Tunnel ([link](http://worldpercussion.net/exercises-for-tendonitis-and-carpal-tunnel/))
 
-## Fingers
+### Fingers
 
 - clap all fingers against the palm (Mike Johnston)
 - pinch thumb and first finger, then work the other fingers. (wrist/finger exercises #3)
@@ -34,9 +34,9 @@ Resources:
     - [link](https://www.youtube.com/watch?v=VQM8IjzUvNo)
 - Bounce the stick with fingers only. Start from thumb, then rotate the hand clockwise. Transition to bounce with index finger and then to middle finger, and back. (Dave Weckl; see [here](https://www.youtube.com/watch?v=NRGiL4FOlSs))
 
-## Wrists
+### Wrists
 
-## Weak Hand
+### Weak Hand
 
 Lessons from Drumeo ([link](https://www.youtube.com/watch?v=clap3PLe82c)).
 
@@ -55,6 +55,11 @@ Feet exercises can also be done without a pedal.
 - Foot Speed ([link](http://www.tigerbill.com/drumlessons/footspeed.htm))
 - Jojo Mayer exercises: down beat, tap/up, up beat, down/tap. ([link](https://www.youtube.com/watch?v=94qWIAuhH64))
 - Rocking motion / heal/toe ([link](https://www.youtube.com/watch?v=vtAEOGQ5smA))
+
+### Left (Weak) Foot
+
+- [50 exercises for the hi-hat foot](http://drummagazine.com/practice-pad-workshop-improve-your-hi-hat-foot-with-these-50-exercises/)
+- [my left foot hi-hat technique](http://www.learndrumsnow.com/technique/my-left-foot-hi-hat-foot-technique)
 
 ### Double Bass
 
