@@ -8,10 +8,6 @@ For clubs in Vienna, see [here](http://austria.alensiljak.tk/entertainment/music
 
 Here are some places that host jam sessions.
 
-### Mixed
-
-- Tunel
-
 ### Jazz
 
 - [Harmer's Bar](https://www.facebook.com/groups/755242204543045/), once a month
@@ -27,12 +23,11 @@ Here are some places that host jam sessions.
 - [17Ten](http://www.17ten.at/termine.html), twice a month, Thu;
 - [Louisiana blues pub](https://blues.at/termine/); Wed
 
-### Live Music
-
-with jam sessions.
+## Live Music
 
 - [IG Jazz](http://www.ig-jazz.at/)
 - [Neruda](https://www.neruda.at/)
+- [Tunel](http://www.tunnel-vienna-live.at/)
 
 ## Workshops
 
