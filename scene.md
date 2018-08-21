@@ -15,17 +15,17 @@ Here are some places that host jam sessions.
 ### Jazz
 
 - [Harmer's Bar](https://www.facebook.com/groups/755242204543045/), once a month
-- [1019](https://www.1019jazzclub.at/), [fb](https://www.facebook.com/1019jazzclub/), every second Tuesday
-- [Zwe](http://www.zwe.cc/), [fb](https://www.facebook.com/jazzcafezwe/), Tuesday, Wednesday
-- [Drakon](https://www.facebook.com/Drakon-386418171399681/), Sundays
-- [Cafe Concerto](http://www.cafeconcerto.at/), Tuesdays
-- [Jazz in Schwechat](http://www.jazzinschwechat.at/)
-- [Jazz in Schönbach](https://www.xing.com/communities/posts/schoenbach-jam-session-in-wien-1000959277)
+- [1019](https://www.1019jazzclub.at/), [fb](https://www.facebook.com/1019jazzclub/), every second Tue
+- [Zwe](http://www.zwe.cc/), [fb](https://www.facebook.com/jazzcafezwe/), Tue, Wed
+- [Drakon](https://www.facebook.com/Drakon-386418171399681/), Sun
+- [Cafe Concerto](http://www.cafeconcerto.at/), Tue
+- [Jazz in Schwechat](http://www.jazzinschwechat.at/), Thu
+- [Jazz in Schönbach](https://www.xing.com/communities/posts/schoenbach-jam-session-in-wien-1000959277), Tue
 
 ### Blues, Country
 
-- [17Ten](http://www.17ten.at/termine.html), twice a month, Thursday;
-- [Louisiana blues pub](https://blues.at/termine/);
+- [17Ten](http://www.17ten.at/termine.html), twice a month, Thu;
+- [Louisiana blues pub](https://blues.at/termine/); Wed
 
 ### Live Music
 
