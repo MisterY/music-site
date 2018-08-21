@@ -10,7 +10,6 @@ Here are some places that host jam sessions.
 
 ### Mixed
 
-- [17Ten](http://www.17ten.at/termine.html), twice a month, Thursday
 - Tunel
 
 ### Jazz
@@ -23,11 +22,14 @@ Here are some places that host jam sessions.
 - [Jazz in Schwechat](http://www.jazzinschwechat.at/)
 - [Jazz in Schönbach](https://www.xing.com/communities/posts/schoenbach-jam-session-in-wien-1000959277)
 
-### Blues
+### Blues, Country
 
-- [Louisiana blues pub](https://blues.at/termine/)
+- [17Ten](http://www.17ten.at/termine.html), twice a month, Thursday;
+- [Louisiana blues pub](https://blues.at/termine/);
 
 ### Live Music
+
+with jam sessions.
 
 - [IG Jazz](http://www.ig-jazz.at/)
 - [Neruda](https://www.neruda.at/)
