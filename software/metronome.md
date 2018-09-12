@@ -9,6 +9,7 @@ Source: Big list of metronomes ([link](http://robertinventor.com/bmwiki/Big_list
 After being disappointed by a whole host of metronomes, I decided to write my own. It is the first one in the list below.
 
 - [Alen's Metronome](http://metronome.alensiljak.ml/)
+- [Flute Tunes](https://www.flutetunes.com/metronome/)
 - [Online Stopwatch](https://www.online-stopwatch.com/metronome/)
 - Best Metronomes ([link](http://www.bestmetronome.com/))
     - Accessible, has tap-to-bpm ([link](http://a.bestmetronome.com/))
@@ -21,6 +22,7 @@ After being disappointed by a whole host of metronomes, I decided to write my ow
 
 ## Linux
 
+- GTick
 - [KMetronome](http://kmetronome.sourceforge.net/)
 - [Monoplugs](http://monoplugs.com/forum/viewtopic.php?t=958)
 
