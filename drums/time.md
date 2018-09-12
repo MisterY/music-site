@@ -62,6 +62,11 @@ Resources:
 - Record yourself playing;
 - "Bury the click track" - hit the notes in perfect timing so that you do not hear the click;
 
+### Ash Soan
+
+2018-09-11, Ash Soan, Zildjian Experience Days at Klangfarbe: Playing without drum sound in the mix. Relying only on tactile feedback. This may help improve time.
+
+
 ## Odd Meters
 
 These are measures with odd number of notes, i.e. 5/4, 7/8, 9/8, 11/8, 13/8.

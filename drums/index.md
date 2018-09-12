@@ -18,6 +18,7 @@ Various drums-related resources.
 * [Styles](/drums/styles)
 * [Technique](/drums/technique)
 * [Time](/drums/time)
+* [Tips](/drums/tips)
 * [Videos](/drums/videos)
 * [Warm-up](/drums/warmup)
 
