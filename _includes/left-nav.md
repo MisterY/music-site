@@ -33,3 +33,5 @@
 * [Scene](/scene)
 * [Software](/software/)
   * [Online](/software/online_services)
+* [Theory](/theory/)
+  * [Tempo](/theory/tempo)
