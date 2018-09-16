@@ -64,8 +64,8 @@ Resources:
 
 ### Ash Soan
 
-2018-09-11, Ash Soan, Zildjian Experience Days at Klangfarbe: Playing without drum sound in the mix. Relying only on tactile feedback. This may help improve time.
-
+2018-09-11, Ash Soan, Zildjian Experience Days at Klangfarbe:  
+Playing without drum sound in the mix. Relying only on tactile feedback.
 
 ## Odd Meters
 
