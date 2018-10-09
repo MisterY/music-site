@@ -47,6 +47,12 @@ Lessons from Drumeo ([link](https://www.youtube.com/watch?v=clap3PLe82c)).
     - or 90BPM for 4-stroke (3 rebounds)
 - Bursting with the weak hand (60 BPM)
 
+### Muscles
+
+Not sure if this much exercise is needed but worth checking-out:
+
+- [A Drummer’s Upper-Body Workout](http://drummagazine.com/a-drummers-upper-body-workout/)
+
 ## Feet
 
 Feet exercises can also be done without a pedal.
