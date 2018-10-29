@@ -82,3 +82,4 @@ These are measures with odd number of notes, i.e. 5/4, 7/8, 9/8, 11/8, 13/8.
 - Peter Erskine on Keeping Time ([link](https://www.youtube.com/watch?v=jlvUvlAMhqg))
 - Quick drum lesson: how to improve timing and note spacing ([link](https://www.youtube.com/watch?v=gqUITaQ3M8g))
 - The "Secret" to Improving Your Rhythm and Time by Chick Corea ([link](https://www.youtube.com/watch?v=ED7liSX7zvY))
+- [Improve Timing on Drums](https://www.drummingbasics.com/improve-timing-on-drums/)
