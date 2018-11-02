@@ -31,6 +31,7 @@ Alphabetical list of venues
 
 - 1019 Jazz Club
 - Blue Tomato
+- Concerto
 - Davis
 - Jazzland
 - Martinschlössl
