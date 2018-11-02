@@ -26,8 +26,20 @@ Here are some places that host jam sessions.
 ## Live Music
 
 - [IG Jazz](http://www.ig-jazz.at/)
+
+Alphabetical list of venues
+
+- 1019 Jazz Club
+- Blue Tomato
+- Davis
+- Jazzland
+- Martinschlössl
+- Miles Smiles
 - [Neruda](https://www.neruda.at/)
-- [Tunel](http://www.tunnel-vienna-live.at/)
+- Reigen
+- Sargfabrik
+- [Tunnel](http://www.tunnel-vienna-live.at/)
+- Zwe
 
 ## Workshops
 
