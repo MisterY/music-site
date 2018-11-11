@@ -9,15 +9,28 @@ In a warm-up, focus on the motion. Make it fluid and let it feel good. Do not ho
 1. Jojo Mayer hand-clapping (3 min.)
 2. "Wrist stretch 1" (1 min.)
 3. Propeller (1 min.), Arm Stretch
-4. Stretch one hand (10 times)
-5. Stretch both hands (10 times)
+4. Stretch one arm (10 times)
+5. Stretch both arms (10 times)
 
-### Jojo Mayer Hand Clap
+### 1. Jojo Mayer Hand Clap
 
 Jojo Mayer hand clapping:
+
 <img src="/img/jojo-mayer-hand-clapping.png" />
 
-- [Reference](https://www.youtube.com/watch?v=ZnICKtoG2Wg)
+- Reference [video]](https://www.youtube.com/watch?v=ZnICKtoG2Wg)
+
+### 2. Wrist Stretch
+
+Stretch your arms in front, holding two sticks. Bend your wrists down and up continuously.
+
+<img src="/img/StrForDownSide.jpg" /> <img src="/img/StrForUpSide.jpg" />
+
+### 5. Both Arms
+
+This is an extension of “the Pretzel”.
+
+- [the Pretzel](https://flypaper.soundfly.com/write/wrist-and-hand-exercises-for-drummers/)
 
 ### Other
 
