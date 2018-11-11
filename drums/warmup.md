@@ -44,7 +44,7 @@ The arm with the hand pointing down stays in the same position.
 
 ### 5. Extended Pretzel
 
-This is an extension of “the Pretzel”. After Pretzel stretch, lift your arms up vertically, then bow the elbows and put the sticks behind the head. Repeat for 9 times. The last time keep the hands in position for ~10 seconds.
+This is an extension of “the Pretzel”. After Pretzel stretch, lift your arms up vertically, then bow the elbows and put the sticks behind the head. Return to the initial position by doing the same motion in reverse. Repeat for 9 times. The last time keep the hands in position for ~10 seconds.
 
 <img src="/img/extended-pretzel.png" />
 
