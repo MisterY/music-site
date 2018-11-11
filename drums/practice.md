@@ -31,3 +31,4 @@ Example lesson plan:
 - Garey Weber: rudiments/technique (warmup), coordination/interdependence, reading/writing music, playing along.
 - The 45-Minute Practice Routine: Get Organized to Optimize Your Time Behind the Kit [link](https://www.moderndrummer.com/2013/12/video-45-minute-practice-routine-get-organized-optimize-time-behind-kit-january-2014-issue/) and [PDF](https://www.moderndrummer.com/wp-content/uploads/45-Minute-Practice-Routine.pdf)
 - [How to practice for maximum progress](https://playinthezone.com/realising-vs-extending-potential/)
+- [Drummers Health](http://www.sportsrehab.com/drumminghealth.htm)

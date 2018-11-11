@@ -9,8 +9,8 @@ In a warm-up, focus on the motion. Make it fluid and let it feel good. Do not ho
 1. Jojo Mayer hand-clapping (3 min.)
 2. "Wrist stretch 1" (1 min.)
 3. Propeller (1 min.), Arm Stretch
-4. Stretch one arm (10 times)
-5. Stretch both arms (10 times)
+4. Half-Pretzel, stretch one arm (10 times)
+5. Extended Pretzel, stretch both arms (10 times)
 
 ### 1. Jojo Mayer Hand Clap
 
@@ -32,7 +32,17 @@ Stretch your arm to the side, holding two sticks, extended (not parallel). Rotat
 
 <img class="pull-right" src="/img/propeller.png" />
 
-### 5. Both Arms
+### 4. Half-Pretzel
+
+Half-Pretzel is a variation of the Pretzel exercise where only one arm is stretched. This is done by having one hand pointing up and the other down in the initial position. 
+
+The arm with the hand pointing up is the one being stretched. This one rotates.
+
+The arm with the hand pointing down stays in the same position.
+
+<img src="/img/pretzel-1.png" /> <img src="/img/pretzel-2.png" /> <img src="/img/pretzel-3.png" />
+
+### 5. Extended Pretzel
 
 This is an extension of “the Pretzel”. After Pretzel stretch, lift your arms up vertically, then bow the elbows and put the sticks behind the head. Repeat for 9 times. The last time keep the hands in position for ~10 seconds.
 
@@ -62,3 +72,4 @@ Put your legs in a natural position. Lift the toes as high as you can, keeping t
 - [Learn To Warm-Up And Stretch Before Drumming](http://www.rockdrummingsystem.com/underground/drum-articles/stretch-and-warm-up.php)
 - [Drumming Warm-Up (Advanced)](https://www.youtube.com/watch?v=Orb8jofNRZ4)
 - [Warming up with Steve Smith](https://www.moderndrummer.com/2017/08/warming-steve-smith/)
+- [Stretches for Drummers](http://podestasportsmedicine.com/articles/stretches-for-drummers/), Podesta
