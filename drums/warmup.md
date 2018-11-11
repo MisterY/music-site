@@ -16,7 +16,7 @@ In a warm-up, focus on the motion. Make it fluid and let it feel good. Do not ho
 
 Jojo Mayer hand clapping:
 
-<img src="/img/jojo-mayer-hand-clapping.png" />
+<img src="/img/jojo-mayer-hand-clapping.png" height="250px" />
 
 - Reference [video]](https://www.youtube.com/watch?v=ZnICKtoG2Wg)
 
