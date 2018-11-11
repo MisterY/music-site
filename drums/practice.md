@@ -5,6 +5,7 @@ Drum practice should be exercised daily. The recommended time is 1-2 hours.
 Two times per week are classes with an instructor. All other days, students do their homework and exercises.
 
 Tips:
+
 * enjoy practice
 * practice daily
 * have a practice plan
@@ -12,6 +13,8 @@ Tips:
 Before any practice perform [warm-ups](warmup.md).
 
 Areas to practice are listed on [Practice Elements](practice-elements.md) page.
+
+Specific exercises are listed on [Exercises](exercises.md) page.
 
 ## Structure
 

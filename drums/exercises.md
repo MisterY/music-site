@@ -1,5 +1,7 @@
 # Exercises
 
+Here are some useful exercises for practice. A few exercises are listed on [WarmUp](warmup.md) page.
+
 - Functional practicing ([link](https://www.youtube.com/watch?v=Reh9vXuAYs4)), contains 13 practice patterns in PDF.
 - [Workout](https://www.youtube.com/watch?v=71sv3NsGxlI)
 
