@@ -63,7 +63,7 @@ Stretch the muscles after playing if they are stiff. See "Stretches for Drummers
 
 ## Legs
 
-Put your legs in a natural position. Lift the toes as high as you can, keeping the heel on the flor. Do quick taps, keeping the feet up. Play 8th notes (while hands do 16th notes).
+Put your legs in a natural position. Lift the toes as high as you can, keeping the heel on the flor. Do quick taps, keeping the feet up. Play 8th notes (while hands do 16th notes). A good starting tempo would be 80bpm.
 
 ## References
 
