@@ -58,7 +58,7 @@ Another good stretch/warm-up tool is to just shake fingers, wrists, arms and sho
 
 Stretch the muscles after playing if they are stiff. See "Stretches for Drummers" link in the References.
 
-- "Wrist Stretch 3" (aikido stretch), <img src="/img/StrAkiR4Side.jpg" />
+- "Wrist Stretch 3" (aikido stretch), <br/><img src="/img/StrAkiR4Side.jpg" width="250px" />
 - "Hand Stretch"
 
 ## Legs
