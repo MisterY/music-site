@@ -30,13 +30,15 @@ Stretch your arms in front, holding two sticks. Bend your wrists down and up con
 
 Stretch your arm to the side, holding two sticks, extended (not parallel). Rotate them like a propeller in one direction, than other.
 
-<img src="/img/propeller.jpg" />
+<img src="/img/propeller.png" />
 
 ### 5. Both Arms
 
 This is an extension of “the Pretzel”. After Pretzel stretch, lift your arms up vertically, then bow the elbows and put the sticks behind the head. Repeat for 9 times. The last time keep the hands in position for ~10 seconds.
 
 - [the Pretzel](https://flypaper.soundfly.com/write/wrist-and-hand-exercises-for-drummers/)
+
+<img src="/img/extended-pretzel.png" />
 
 ### Other
 
