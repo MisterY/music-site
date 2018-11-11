@@ -63,7 +63,11 @@ Stretch the muscles after playing if they are stiff. See "Stretches for Drummers
 
 ## Legs
 
+Shin Warm-Up
+
 Put your legs in a natural position. Lift the toes as high as you can, keeping the heel on the flor. Do quick taps, keeping the feet up. Play 8th notes (while hands do 16th notes). A good starting tempo would be 80bpm.
+
+<img src="/img/shin-warmup.png" />
 
 ## References
 
