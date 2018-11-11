@@ -40,7 +40,7 @@ The arm with the hand pointing up is the one being stretched. This one rotates.
 
 The arm with the hand pointing down stays in the same position.
 
-<img src="/img/pretzel-1.png" /> <img src="/img/pretzel-2.png" /> <img src="/img/pretzel-3.png" />
+<img src="/img/pretzel-1.png" width="350px" /> <img src="/img/pretzel-2.png" width="350px" /> <img src="/img/pretzel-3.png" width="350px" />
 
 ### 5. Extended Pretzel
 
