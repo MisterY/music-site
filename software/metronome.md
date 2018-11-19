@@ -29,7 +29,10 @@ After being disappointed by a whole host of metronomes, I decided to write my ow
 
 ## Windows
 
+- [PC 9 Virtual Metronome](http://www.chordpulse.com/pc-virtual-metronome.html)
 - MuseScore (simply creating a score and turning on a metronome with intro)
+- [TempoPerfect](https://www.nch.com.au/metronome/index.html)
+- [Give me a Tac](http://givemetac.free.fr/index.php)
 
 ## Android
 
