@@ -13,6 +13,7 @@ Exercises:
 
 - To develop calf muscles, play heel-down single-stroke double bass; 5 minutes at 80 bpm, 16th notes. Speed up over time. Develop control and muscles.
 - To develop hip muscles, use anchor-weights of 1-2kg.
+- Flat-foot Technique, for hip flexor muscles ([link](https://m.youtube.com/watch?v=-rIwYVUfEf0)). Start doing 16th notes at 80bpm and work upwards at 5bpm increments.
 
 ## Resources
 

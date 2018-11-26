@@ -28,7 +28,6 @@ Resources:
 
 - [wrist/finger exercises](https://www.youtube.com/watch?v=21RI6hWaEEc)
 
-
 ### Traditional grip, left hand:
 
 - Fingers
@@ -72,3 +71,5 @@ Feet exercises can also be done without a pedal.
 ### Double Bass
 
 - Warm-Ups ([link](http://www.drumlessons.com/drum-lessons/bass-drum-lessons/double-bass-warm-ups/))
+
+See also exercises on the [Bass](bass.md) page.
