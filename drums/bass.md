@@ -18,3 +18,4 @@ Exercises:
 ## Resources
 
 - [Double Bass Drumming Frustrations VLOG #2](https://www.youtube.com/watch?v=uAmJRbcRU6U)
+- [Double Bass Exercises How to start practicing Fast Double Bass Drumming](https://www.youtube.com/watch?v=CnqzG6rgDFs&list=PLLOJc4hJB_hJe9MGtsTS-YkYOkpa5-9cm&index=3)
