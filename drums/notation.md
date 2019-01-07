@@ -4,6 +4,7 @@ Drum notation.
 
 - [Percussion Notation](https://en.wikipedia.org/wiki/Percussion_notation) at Wikipedia
 - [Drum & Percussion Notation](https://web.mit.edu/merolish/Public/drums.pdf), Audiograffiti
+- [Drum Notation Guide](http://drummagazine.com/drum-notation-guide/), Drum Magazine
 
 ## Sketches
 
