@@ -17,3 +17,11 @@ There are also systems developed by others.
 
 - [
 The Magic of Song Sketches](http://www.learndrumsnow.com/playing-music/the-magic-of-song-sketches)
+
+## Lead Sheets
+
+Lead sheets contain only general information about the song, like melody and harmony. It fits on one sheet.
+
+## Performance Scores
+
+Performance scores are used for performing music on stage.
