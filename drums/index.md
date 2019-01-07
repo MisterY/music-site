@@ -11,6 +11,7 @@ Various drums-related resources.
 * [Extreme Drumming](extreme-drumming)
 * [Grip](/drums/grip)
 * [Hardware](/drums/hardware)
+* [Notation](/drums/notation)
 * [Practice](/drums/practice)
 * [Practice Elements](/drums/practice-elements)
 * [Rudiments](/drums/rudiments)
