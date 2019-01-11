@@ -17,6 +17,10 @@
 
 See [Rudiments](rudiments) page.
 
+### Hi-Hat
+
+See Joe Morello explaining the hi-hat technique [here](http://www.drummerworld.com/Videos/joemorellohihat.html).
+
 ### Snare
 
 [Brushes](brushes) are on a separate page.
