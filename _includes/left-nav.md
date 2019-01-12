@@ -35,3 +35,4 @@
   * [Online](/software/online_services)
 * [Theory](/theory/)
   * [Tempo](/theory/tempo)
+* [VST](/vst/)
