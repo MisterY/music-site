@@ -33,7 +33,6 @@ Niels Myrner, in [Effective practice plan](https://www.nkmdrums.com/design-an-ef
 
 ### Mechanics
 
-
 1. Timing: micro, macro, feel
 2. Dynamics: micro, macro, feel
 3. Physical tension or relaxation
