@@ -54,3 +54,4 @@ Practice with a mirror. See Anatomy section in [Technique](technique) page.
 
 - [Eight Essentials of the Artist Drummer](https://tigerbill.com/drumlessons/eightessentialsoftheartistdrummer.htm)
 - [24 Awesome Drum Practice Tips](http://www.playdrumsnow.com/practice-results/)
+- [Drumming Skills / Qualities](http://www.playdrumsnow.com/skills/)
