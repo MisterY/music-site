@@ -1,6 +1,16 @@
 # Practice
 
-Drum practice should be exercised daily. The recommended time is 1-2 hours.
+> “An amateur rehearses until they can do something right. An expert rehearses until they cannot make a mistake.”
+
+Drum practice should be exercised daily. The recommended time is at least 1-2 hours.
+
+[Niels Myrner](https://www.nkmdrums.com/design-an-effective-practice-plan/) lists the following timeframes:
+
+- 15 Minutes/Day: Minimum to gain rewards.
+- 30 Minutes/Day: Great target for an otherwise busy student.
+- 1-2 Hours/Day: Good base level for a serious student.
+- 3 Hours/Day: Serious student, considering music school/career.
+- 6-12 Hours/Day: Typical professional work day.
 
 Two times per week are classes with an instructor. All other days, students do their homework and exercises.
 
