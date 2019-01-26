@@ -17,7 +17,7 @@ Here are some places that host jam sessions.
 - [Cafe Concerto](http://www.cafeconcerto.at/), Tue
 - [Jazz in Schwechat](http://www.jazzinschwechat.at/), Thu
 - [Jazz in Schönbach](https://www.xing.com/communities/posts/schoenbach-jam-session-in-wien-1000959277), Tue
-- [Loop](https://www.facebook.com/loop.vienna), every 2nd Thursday
+- [Loop](https://www.facebook.com/loop.vienna), U-Bahn Bogen 26, 1080 Vienna, every 2nd Thursday
 
 ### Blues, Country
 
