@@ -6,4 +6,5 @@ In essence, ALSA communicats with 100% of USB MIDI controllers. To confirm, run 
 
 Run `qjackctl` and connect the ports on MIDI devices, from left to right, using the device with the same name. This will make the MIDI-over-USB devices available to Wine and Windows applications installed there.
 
-Use ALSA audio by setting it with `winetricks`. [Source](https://askubuntu.com/questions/77210/how-to-change-the-default-audio-in-wine-to-alsa-only)
+Use ALSA audio by setting it with `winetricks`, [Source](https://askubuntu.com/questions/77210/how-to-change-the-default-audio-in-wine-to-alsa-only), or by setting the registry key with `regedit`, [source](https://askubuntu.com/questions/77210/how-to-change-the-default-audio-in-wine-to-alsa-only).
+Then run `winecfg` to confirm it has been installed.
