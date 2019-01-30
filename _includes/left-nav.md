@@ -30,6 +30,7 @@
 * [Band](/band/)
   * [Rhythm Section](/band/rhythm-section)
 * [Drums](/drums/)
+* [MIDI](/MIDI/)
 * [Scene](/scene)
 * [Software](/software/)
   * [Online](/software/online_services)
