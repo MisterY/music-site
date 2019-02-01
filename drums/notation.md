@@ -26,3 +26,8 @@ Lead sheets contain only general information about the song, like melody and har
 ## Performance Scores
 
 Performance scores are used for performing music on stage.
+
+## Links
+
+- [Jazz Notation – Chords and Drums](http://www.timusic.net/debreved/jazz-notation-chords-drums/)
+- [](https://www.percussiontoday.com/filer/notation.pdf)
