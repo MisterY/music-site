@@ -39,7 +39,7 @@ Also, listen to Blue Bossa '99 remaster, ([link](https://open.spotify.com/track/
 
 ## Soca - Calypso
 
-![soca](http://vicfirth.com/wp-content/uploads/2015/02/GrooveEssentials32-1024x194.png)
+<img src="http://vicfirth.com/wp-content/uploads/2015/02/GrooveEssentials32-1024x194.png" width="300px" alt="soca" />
 
 Here is a Calypso version from Tommy Igoe, at Vic Firth ([link](http://vicfirth.com/groove-essentials-32-soca/)).
 
