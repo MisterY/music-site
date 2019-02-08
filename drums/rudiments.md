@@ -37,3 +37,9 @@ More info available in the [notation guide](http://web.mit.edu/merolish/Public/d
 in terms of the roll length (not the number of notes comprising the roll itself).
 
 Videos: buzz roll ([link](https://www.youtube.com/watch?v=kyiZMFSlK6Y)).
+
+One useful method, but perhaps a bit draconian, to learn playing rolls is the one employed by Art Blakey:
+
+> Blakey also received some instruction from Chick Webb, who once sat Blakey down with a snare drum and a metronome, set the metronome to a very slow tempo, and told Art to roll for a hundred beats. “And if you stop, I’ll break your skull,” Webb said. “He was a disciplinarian,” Blakey said.
+
+[Art Blakey](http://www.pas.org/about/hall-of-fame/art-blakey) hall-of-fame page on PAS.
