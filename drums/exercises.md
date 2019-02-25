@@ -11,6 +11,10 @@ Here are some useful exercises for practice. A few exercises are listed on [Warm
 - Jojo's hand claping, [link](https://www.youtube.com/watch?v=ZnICKtoG2Wg).
 - Charles Wilcoxon: place fingertips on the table and lift palms. Tap left index finger and right middle finger in rapid succession.
 
+## Subdivisions, the "Method"
+
+The "Method": Set the metronome to 40 bpm. Play, using alternating hands, subdivisions from 2 to 13 within one beat. Can be applied on the set.
+
 ## Hands
 
 - Open/close technique, double-stroke roll, Dave Weckl ([link](https://www.youtube.com/watch?v=rJD-L-tyvyE))
