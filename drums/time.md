@@ -83,3 +83,4 @@ These are measures with odd number of notes, i.e. 5/4, 7/8, 9/8, 11/8, 13/8.
 - [Improve Timing on Drums](https://www.drummingbasics.com/improve-timing-on-drums/)
 - [Develop Timing](https://howtoplaydrums.com/develop-timing/), How to play drums
 - [Time Keeping](http://drummagazine.com/how-to-practice-drums-like-a-pro/), Drum Magazine
+- [How to Use a Metronome to Improve Your Practice](http://www.stetina.com/lessons/metronome.html)
