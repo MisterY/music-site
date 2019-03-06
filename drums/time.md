@@ -52,13 +52,11 @@ Resources:
 - Practice with and without a click.
 - Sing the melody or time ("ta") while playing.
 - Metronome Reduction method ([link](https://www.youtube.com/watch?v=uP6DF4X9zF0))
-
-## Tips
-
 - Play really slow tempos;
 - Play different subdivisions;
 - Record yourself playing;
 - "Bury the click track" - hit the notes in perfect timing so that you do not hear the click;
+- Increase and decrease the tempo each minute: start at 100, down to 95, up to 110, down to 90, up to 115...
 
 ### Ash Soan
 
@@ -84,3 +82,4 @@ These are measures with odd number of notes, i.e. 5/4, 7/8, 9/8, 11/8, 13/8.
 - [Develop Timing](https://howtoplaydrums.com/develop-timing/), How to play drums
 - [Time Keeping](http://drummagazine.com/how-to-practice-drums-like-a-pro/), Drum Magazine
 - [How to Use a Metronome to Improve Your Practice](http://www.stetina.com/lessons/metronome.html)
+- [Timing vs Time-Keeping](https://www.elephantdrums.co.uk/blog/creative-concepts/timing-vs-time-keeping/)
