@@ -34,6 +34,15 @@ Example lesson plan:
 * Theory/Book/Technique: (15 minutes)
 * Song/Play/Form: (15 minutes)
 
+### 4-Stage Practice Method
+
+Mike Johnston uses the 4-stage method:
+
+1. non-creative, 10 minutes. Technique.
+2. creative, . Practice creativity within some limits.
+3. main focus, 25 min. Whatever needs to be developed.
+4. musical application. Play along unknown music; Audition.
+
 ## Resources:
 
 - Drum Lesson Plan [link](http://drumlearner.com/drum-lesson-plan-teachers.php)
@@ -42,3 +51,4 @@ Example lesson plan:
 - The 45-Minute Practice Routine: Get Organized to Optimize Your Time Behind the Kit [link](https://www.moderndrummer.com/2013/12/video-45-minute-practice-routine-get-organized-optimize-time-behind-kit-january-2014-issue/) and [PDF](https://www.moderndrummer.com/wp-content/uploads/45-Minute-Practice-Routine.pdf)
 - [How to practice for maximum progress](https://playinthezone.com/realising-vs-extending-potential/)
 - [Drummers Health](http://www.sportsrehab.com/drumminghealth.htm)
+- [4-stage practice method](https://www.youtube.com/watch?v=F5li8JPkQU0&list=RDF5li8JPkQU0&start_radio=1), Mike Johnston
