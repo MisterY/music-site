@@ -34,6 +34,8 @@ Example lesson plan:
 * Theory/Book/Technique: (15 minutes)
 * Song/Play/Form: (15 minutes)
 
+Some plan examples below.
+
 ### 4-Stage Practice Method
 
 Mike Johnston uses the 4-stage method:
@@ -43,12 +45,24 @@ Mike Johnston uses the 4-stage method:
 3. main focus, 25 min. Whatever needs to be developed.
 4. musical application. Play along unknown music; Audition.
 
+- [The 45-Minute Practice Routine](https://www.moderndrummer.com/article/january-2014-45-minute-practice-routine/)
+- The 45-Minute Practice Routine: Get Organized to Optimize Your Time Behind the Kit [link](https://www.moderndrummer.com/2013/12/video-45-minute-practice-routine-get-organized-optimize-time-behind-kit-january-2014-issue/) and [PDF](https://www.moderndrummer.com/wp-content/uploads/45-Minute-Practice-Routine.pdf)
+- [4-stage practice method](https://www.youtube.com/watch?v=F5li8JPkQU0&list=RDF5li8JPkQU0&start_radio=1), Mike Johnston
+
+### 3 Simple Steps to Build the Perfect Drum Practice Routine
+
+This method (see resources below) also recommends having separate parts of the practice routine:
+
+- vegetables, things like drum rudiments, site reading, and four-way coordination.
+- protein, the main goal. Things such as learning the beat to a song, transcribing, or learning a famous drum solo.
+- dessert, improvisation. As you get better at improvising, you can start improvising over certain ostinato (repeated) patterns or exotic time signatures.
+
+- [3 Simple Steps to Build the Perfect Drum Practice Routine](https://takelessons.com/blog/drum-practice-routine-z07)
+
 ## Resources:
 
 - Drum Lesson Plan [link](http://drumlearner.com/drum-lesson-plan-teachers.php)
 - Jojo Mayer guide [link](http://docslide.net/documents/mayer-secret-weapons-tip-guide.html)
 - Garey Weber: rudiments/technique (warmup), coordination/interdependence, reading/writing music, playing along.
-- The 45-Minute Practice Routine: Get Organized to Optimize Your Time Behind the Kit [link](https://www.moderndrummer.com/2013/12/video-45-minute-practice-routine-get-organized-optimize-time-behind-kit-january-2014-issue/) and [PDF](https://www.moderndrummer.com/wp-content/uploads/45-Minute-Practice-Routine.pdf)
 - [How to practice for maximum progress](https://playinthezone.com/realising-vs-extending-potential/)
 - [Drummers Health](http://www.sportsrehab.com/drumminghealth.htm)
-- [4-stage practice method](https://www.youtube.com/watch?v=F5li8JPkQU0&list=RDF5li8JPkQU0&start_radio=1), Mike Johnston
