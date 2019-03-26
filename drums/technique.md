@@ -13,6 +13,8 @@
 
 ## Hands
 
+Also see [Extreme Drumming page](extreme-drumming) for an explanation of switch-grip technique.
+
 ### Rudiments
 
 See [Rudiments](rudiments) page.

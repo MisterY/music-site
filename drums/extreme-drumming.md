@@ -10,6 +10,18 @@ The technique is based on the basic rudiment - single stroke roll.
 * High Intensity Interval Training
     * Push your limits constantly
 
+### Switch-Grip Hand Technique
+
+This is a switch between a German and a French grip.
+
+An exercise for this technique: 
+- German grip: place hands on the table in front of you. Keep the base of the palm on the table and tap 8th notes at 120bpm for 2 4/4 bars. 
+- French grip: turn the hands side-wise and continue tapping, using wrist motion for another 2 bars. Repeat all.
+
+A good explanation of this technique is available at:
+
+- [Marthyn Jovanovich](https://www.youtube.com/watch?v=IYSvdqWZzfk)
+
 ## References
 
 * [An easy to follow step-by-step guide to 300BPM](https://www.youtube.com/watch?v=BiyDBa3bApU)
