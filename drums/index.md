@@ -13,6 +13,7 @@ Various drums-related resources.
 * [Hardware](/drums/hardware)
 * [Notation](/drums/notation)
 * [Orchestration](/drums/orchestration)
+* [Polyrhythms](/drums/polyrhythms)
 * [Practice](/drums/practice)
 * [Practice Elements](/drums/practice-elements)
 * [Rudiments](/drums/rudiments)
