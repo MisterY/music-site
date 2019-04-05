@@ -7,6 +7,8 @@ The muscles involved:
 - calf muscles, [Picture of the Calf Muscle](https://www.webmd.com/fitness-exercise/picture-of-the-calf-muscle#1)
 - hip muscles, [Muscles of the Hip](https://en.wikipedia.org/wiki/Muscles_of_the_hip)
 
+For list of techniques, see [technique](technique) page.
+
 ## Double Bass
 
 Exercises:
