@@ -3,7 +3,7 @@
 There is a distinction between the following terms:
 
 - Exercise: refers to physical exercise, repetition of movements, development of muscles and "muscle memory". See [Exercises](exercises) page.
-- Practice: act of playing the instrument. Either in gigs, with others, or alone. Experimenting with ideas, phrases, coordination. Learning and perfecting technique as well as musical expression. See [Practice Elements](practice-elements).
+- Practice: playing music, the act of playing the instrument. Either in gigs, with others, or alone. Experimenting with ideas, phrases, coordination. Learning and perfecting technique as well as musical expression. See [Practice Elements](practice-elements).
 - Rehearsal: preparing for the gig. Playing in the environment that matches the presentation environment as much as possible. Usually a band or group rehearsal.
 - Performing: playing in front of the live audience or recording.
 
