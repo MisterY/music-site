@@ -2,9 +2,10 @@
 
 There is a distinction between the following terms:
 
-- Exercise: refers to physical exercise, repetition of movements, development of muscles and "muscle memory". See [Exercises](exercises.md) page.
-- Rehearsal: preparing for the gig. Playing in the environment that matches the presentation environment as much as possible. For example, a band rehearsal.
-- Practice: act of playing the instrument. Either in gigs, with others, or alone. Experimenting with ideas, phrases, coordination. Learning and perfecting technique as well as musical expression.
+- Exercise: refers to physical exercise, repetition of movements, development of muscles and "muscle memory". See [Exercises](exercises) page.
+- Practice: act of playing the instrument. Either in gigs, with others, or alone. Experimenting with ideas, phrases, coordination. Learning and perfecting technique as well as musical expression. See [Practice Elements](practice-elements).
+- Rehearsal: preparing for the gig. Playing in the environment that matches the presentation environment as much as possible. Usually a band or group rehearsal.
+- Performing: playing in front of the live audience or recording.
 
 See Jojo Mayer's [explanation](https://www.facebook.com/DougMeolaDrumSpot/videos/1694062487338952/).
 
@@ -12,7 +13,23 @@ See Jojo Mayer's [explanation](https://www.facebook.com/DougMeolaDrumSpot/videos
 
 > “An amateur rehearses until they can do something right. An expert rehearses until they cannot make a mistake.”
 
-Drum practice should be exercised daily. The recommended time is at least 1-2 hours.
+Tips:
+
+* enjoy practice
+* practice daily
+* have a practice plan
+
+Before any practice perform [warm-ups](warmup).
+
+Areas to practice are listed on [Practice Elements](practice-elements) page.
+
+Specific exercises are listed on [Exercises](exercises) page.
+
+### Time length
+
+Drum practice should be exercised daily. The generally recommended time is at least 1-2 hours.
+
+Two times per week are classes with an instructor. All other days, students do their homework and exercises.
 
 [Niels Myrner](https://www.nkmdrums.com/design-an-effective-practice-plan/) lists the following timeframes:
 
@@ -22,19 +39,15 @@ Drum practice should be exercised daily. The recommended time is at least 1-2 ho
 - 3 Hours/Day: Serious student, considering music school/career.
 - 6-12 Hours/Day: Typical professional work day.
 
-Two times per week are classes with an instructor. All other days, students do their homework and exercises.
+Dave Weigert, in Workshop for bass and drums, provides a sample timeframe along the practice areas. The time includes
 
-Tips:
+- 3 times per week * 4 hours, practice
+- 1 hour per week, lesson
+- 2 times per week * 3 hours, rehearse
+- 3-4 hour session in transcribing, listening, reading, as well as visiting record and music stores, and
+- weekend nights listening or playing live gigs.
 
-* enjoy practice
-* practice daily
-* have a practice plan
-
-Before any practice perform [warm-ups](warmup.md).
-
-Areas to practice are listed on [Practice Elements](practice-elements.md) page.
-
-Specific exercises are listed on [Exercises](exercises.md) page.
+The practice areas depend on your specific needs.
 
 ## Structure
 

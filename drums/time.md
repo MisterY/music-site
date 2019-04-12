@@ -1,6 +1,6 @@
 # Time
 
-This page is about the concept of time, as applied on the drums. Time, or time keeping, is the first and foremost function of a drummer. The term "time" most often refers to tempo. 
+This page is about the concept of time, as applied on the drums. Time, or time keeping, is the first and foremost function of a drummer. Rhythm is the most important element of playing. The term "time" refers to tempo and feel.
 
 It also contributes to the creation of a "feel" of the song. This, however, is mostly affected by the subdivisions of the played notes, and orchestration generally.
 
@@ -11,6 +11,28 @@ Honor the time between the notes. What you play is equally important to what you
 The key to successful time keeping is the ability to play the subdivisions correctly.
 
 Subdivision is the division of the main notes of the beat.
+
+## Metronome
+
+Usually, having a metronome click on beats 2 and 4 is enough for time practice. Metronome helps develop steady time playing. 
+
+The best way to practice time and feel (= groove), is playing along the recordings. This addresses more issues (feel, form, dynamics, and so on).
+
+## Exercises
+
+- Practice with and without a click.
+- Sing the melody or time ("ta") while playing.
+- Metronome Reduction method ([link](https://www.youtube.com/watch?v=uP6DF4X9zF0))
+- Play really slow tempos;
+- Play different subdivisions;
+- Record yourself playing;
+- "Bury the click track" - hit the notes in perfect timing so that you do not hear the click;
+- Increase and decrease the tempo each minute: start at 100, down to 95, up to 110, down to 90, up to 115...
+
+### Ash Soan
+
+2018-09-11, Ash Soan, Zildjian Experience Days at Klangfarbe:  
+Playing without drum sound in the mix. Relying only on tactile feedback.
 
 ## The New Breed / Singing
 
@@ -46,22 +68,6 @@ Resources:
 
 - [What is Microtime?](https://www.youtube.com/watch?v=71Qa2huylD8) from 80/20 Drummer
 - [The SECRET To TIGHTER Drumming - Micro Timing Drum Lesson](https://www.youtube.com/watch?v=tbjZxd4Uzyo)
-
-## Exercises
-
-- Practice with and without a click.
-- Sing the melody or time ("ta") while playing.
-- Metronome Reduction method ([link](https://www.youtube.com/watch?v=uP6DF4X9zF0))
-- Play really slow tempos;
-- Play different subdivisions;
-- Record yourself playing;
-- "Bury the click track" - hit the notes in perfect timing so that you do not hear the click;
-- Increase and decrease the tempo each minute: start at 100, down to 95, up to 110, down to 90, up to 115...
-
-### Ash Soan
-
-2018-09-11, Ash Soan, Zildjian Experience Days at Klangfarbe:  
-Playing without drum sound in the mix. Relying only on tactile feedback.
 
 ## Odd Meters
 

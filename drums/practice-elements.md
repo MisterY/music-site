@@ -1,25 +1,22 @@
 # Practice Elements
 
-These are the areas that require development and should be practiced/exercised.
+These are the areas that can be developed through practice/exercise.
 
 - Posture, breathing, relaxation
 - [Time](time)
-- Technique, chops, coordination
-- Sound
+- Technique / chops / coordination
+- Sound, tone
 - Listening
-- Notation
-    - Reading,
-    - Writing,
-    - transcribing
+- Notation: reading, writing, transcribing
 - Orchestration, musical expression
 - [Dynamics](dynamics)
 - [Band playing](/band/band), playing with others, accompainment
-- Improvisation
+- Improvisation:
     - solos
     - creating melody
     - composition
-- Musical styles
-- Groove
+- Musical styles, variety
+- Groove, feel
 - Fluidity (dynamics, shifting patterns, fills & grooves), see [Dynamics](dynamics).
 
 ## Effective Practice Plan

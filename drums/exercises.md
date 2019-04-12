@@ -1,6 +1,6 @@
 # Exercises
 
-Here are some useful exercises for practice. A few exercises are listed on [WarmUp](warmup.md) page.
+Here are some useful exercises for practice. A few exercises are listed on [WarmUp](warmup) page.
 
 - Functional practicing ([link](https://www.youtube.com/watch?v=Reh9vXuAYs4)), contains 13 practice patterns in PDF.
 - [Workout](https://www.youtube.com/watch?v=71sv3NsGxlI)
@@ -77,4 +77,4 @@ Feet exercises can also be done without a pedal.
 
 - Warm-Ups ([link](http://www.drumlessons.com/drum-lessons/bass-drum-lessons/double-bass-warm-ups/))
 
-See also exercises on the [Bass](bass.md) page.
+See also exercises on the [Bass](bass) page.
