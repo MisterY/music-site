@@ -1,5 +1,15 @@
 # Practice
 
+There is a distinction between the following terms:
+
+- Exercise: refers to physical exercise, repetition of movements, development of muscles and "muscle memory". See [Exercises](exercises.md) page.
+- Rehearsal: preparing for the gig. Playing in the environment that matches the presentation environment as much as possible. For example, a band rehearsal.
+- Practice: act of playing the instrument. Either in gigs, with others, or alone. Experimenting with ideas, phrases, coordination. Learning and perfecting technique as well as musical expression.
+
+See Jojo Mayer's [explanation](https://www.facebook.com/DougMeolaDrumSpot/videos/1694062487338952/).
+
+## General Practice
+
 > “An amateur rehearses until they can do something right. An expert rehearses until they cannot make a mistake.”
 
 Drum practice should be exercised daily. The recommended time is at least 1-2 hours.
