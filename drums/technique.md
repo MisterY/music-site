@@ -36,3 +36,7 @@ See Joe Morello explaining the hi-hat technique [here](http://www.drummerworld.c
 - Heel-up
 - Constant Release, or Heel-Toe, rocking motion, pumping, Moeller... Jojo Mayer foot technique (Jojo Mayer link, link). First hit with heel up, second with heel down.
 - Swivel (slide left-right)
+
+## Resources
+
+- [Practical Techniques for the 21st Century Drummer (Dom Famularo)](https://www.youtube.com/watch?v=qKqhv8MhuL4)
