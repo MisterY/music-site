@@ -7,7 +7,7 @@ Here are some useful exercises for practice. A few exercises are listed on [Warm
 
 ## Exercises without sticks
 
-- Fingers, Dom Famularo [link](https://youtu.be/qKqhv8MhuL4?t=1906), lesson from Shelly Manne: Keep index finger and thumb together, relaxed. Stretch the remaining three fingers, then bring them down to the palm. Tempo 80, play 8th notes (twice per beat). 
+- Fingers, Dom Famularo [link](https://youtu.be/qKqhv8MhuL4?t=1906), lesson from Shelly Manne: Keep index finger and thumb together, relaxed. Stretch the remaining three fingers, then bring them down to the palm. Tempo 80, play 8th notes (twice per beat). After some time, shake the hands and do it again.
 - Fist clenching (forearm and hand muscle buildup) and stretching.
 - Jojo's hand claping, [link](https://www.youtube.com/watch?v=ZnICKtoG2Wg).
 - Charles Wilcoxon: place fingertips on the table and lift palms. Tap left index finger and right middle finger in rapid succession.
