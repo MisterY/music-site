@@ -37,6 +37,7 @@ Alphabetical list of venues
 - Davis
 - Jazzland
 - Martinschlössl
+- Mi Barrio, latin music, [web](https://www.mibarrio.at/)
 - Miles Smiles
 - [Neruda](https://www.neruda.at/)
 - Reigen
